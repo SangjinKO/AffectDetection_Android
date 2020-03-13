@@ -1,4 +1,4 @@
-# AffectDetection_Android
+# AffectDetection_Android, JAVA
 
 Affect detection application using Smartphone, OpenXC, and ECG
 
